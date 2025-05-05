@@ -37,7 +37,7 @@ def main(page: ft.Page):
         options=[
             ft.dropdown.Option("Single"),
             ft.dropdown.Option("Married"),
-            ft.dropdown.Option("Comflicated"),
+            ft.dropdown.Option("Conflicated"),
             ft.dropdown.Option("prefer not to tell"),
         ]
     )
